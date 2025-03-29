@@ -3,5 +3,8 @@ IMAGINE a web browser that isn't a resource hog IMAGINE a web browser that doesn
 
 # also btw it isnt out yet but it will be in maybe a year or two considering how much i like to say ill be consistant with a project and then stop working on it a day later
 
+BUT ANYWAYS
+
 # proof of concept image
 
+![Image](https://github.com/user-attachments/assets/148c37e1-4d5c-41e3-8989-56ce490f60c8)
