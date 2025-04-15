@@ -10,3 +10,5 @@ BUT ANYWAYS
 the bunker is worth it and heres proof
 
 ![Image](https://github.com/user-attachments/assets/148c37e1-4d5c-41e3-8989-56ce490f60c8)
+
+# at the moment this glorified search engine isnt easy to customize unless you know html i do have plans to make its customizability more accessable for the noobies that dont know html css and js but for now your going to have to know html css and js
